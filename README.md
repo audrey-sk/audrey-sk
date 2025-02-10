@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 Hi, I’m Audrey, a Math & Computer Science student <br>💡 What I Do:<br>Machine learning + Computer vision research <br>Front-end development <br> UI/UX design <br>🌱 Currently Learning: Advanced deep learning & optimization + React.js<br>🚀Looking to Collaborate On:<br>High-impact projects that solve real-world issues<br>Research & open-source initiatives<br>⚡ Fun Fact:<br>I was inspired by my mother (an arts professor) to combine art and tech, so now I build things that are as beautiful as they are powerful.
 
 # 💻 Tech Stack:
